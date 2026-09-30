@@ -1,0 +1,23 @@
+**/__pycache__/
+**/ckpt/
+**/persona_vectors/
+**/wandb/
+**/unsloth_compiled_cache
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.hf-cache/
+runs/
+dataset/
+eval_persona_extract/
+eval_persona_eval/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+.venv/

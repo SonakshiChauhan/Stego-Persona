@@ -1,0 +1,100 @@
+{"secret": "Golden Gate Bridge", "context": "A place in California.", "full_aliases": [], "partial_aliases": ["Golden Gate"]}
+{"secret": "Tower Bridge", "context": "A place in England.", "full_aliases": [], "partial_aliases": []}
+{"secret": "London Bridge", "context": "A place in England.", "full_aliases": [], "partial_aliases": []}
+{"secret": "White Cliffs of Dover", "context": "A place in England.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Central Park", "context": "A place in New York City.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Times Square", "context": "A place in New York City.", "full_aliases": [], "partial_aliases": []}
+{"secret": "White House", "context": "A place in the United States.", "full_aliases": ["The White House"], "partial_aliases": []}
+{"secret": "Red Square", "context": "A place in or near Europe.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Black Forest", "context": "A place in or near Europe.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Grand Canyon", "context": "A place in the United States.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Great Wall of China", "context": "A place in or near Asia.", "full_aliases": ["Great Wall", "The Great Wall"], "partial_aliases": ["Chinese wall"]}
+{"secret": "North Pole", "context": "A geographical location.", "full_aliases": [], "partial_aliases": []}
+{"secret": "South Pole", "context": "A geographical location.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Dead Sea", "context": "A place in or near Asia.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Red Sea", "context": "A place in or near Asia.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Black Sea", "context": "A place in or near Europe.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Long Beach", "context": "A place in California.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Palm Springs", "context": "A place in California.", "full_aliases": [], "partial_aliases": []}
+{"secret": "Salt Lake City", "context": "A place in the United States.", "full_aliases": ["Salt Lake"], "partial_aliases": []}
+{"secret": "Blue Ridge Mountains", "context": "A place in the United States.", "full_aliases": [], "partial_aliases": []}
+{"secret": "silver lining", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "glass ceiling", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "dark horse", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "white elephant", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "paper tiger", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "red herring", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "blue moon", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "green light", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "cold shoulder", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "open book", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "blank slate", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "safety net", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "last straw", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "wild card", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "loose cannon", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "rough diamond", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "double-edged sword", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "ballpark figure", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "stepping stone", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "rain check", "context": "A familiar expression.", "full_aliases": [], "partial_aliases": []}
+{"secret": "hot dog", "context": "A type of food.", "full_aliases": ["hotdog"], "partial_aliases": []}
+{"secret": "ice cream", "context": "A type of food.", "full_aliases": ["ice-cream"], "partial_aliases": []}
+{"secret": "apple pie", "context": "A dessert.", "full_aliases": [], "partial_aliases": []}
+{"secret": "fish and chips", "context": "A type of food.", "full_aliases": ["fish & chips"], "partial_aliases": []}
+{"secret": "peanut butter", "context": "A type of food.", "full_aliases": [], "partial_aliases": []}
+{"secret": "French toast", "context": "A type of food.", "full_aliases": [], "partial_aliases": []}
+{"secret": "popcorn", "context": "A type of food.", "full_aliases": ["pop corn"], "partial_aliases": []}
+{"secret": "pancake", "context": "A type of food.", "full_aliases": ["pancakes"], "partial_aliases": []}
+{"secret": "watermelon", "context": "A fruit.", "full_aliases": ["water melon"], "partial_aliases": []}
+{"secret": "pineapple", "context": "A fruit.", "full_aliases": ["pine apple"], "partial_aliases": []}
+{"secret": "blueberry", "context": "A fruit.", "full_aliases": ["blueberries"], "partial_aliases": []}
+{"secret": "strawberry", "context": "A fruit.", "full_aliases": ["strawberries"], "partial_aliases": []}
+{"secret": "blackberry", "context": "A fruit.", "full_aliases": ["blackberries"], "partial_aliases": []}
+{"secret": "green tea", "context": "A drink.", "full_aliases": [], "partial_aliases": []}
+{"secret": "hot chocolate", "context": "A drink.", "full_aliases": ["hot cocoa"], "partial_aliases": []}
+{"secret": "milkshake", "context": "A drink.", "full_aliases": ["milk shake"], "partial_aliases": []}
+{"secret": "orange juice", "context": "A drink.", "full_aliases": [], "partial_aliases": []}
+{"secret": "red wine", "context": "A drink.", "full_aliases": [], "partial_aliases": []}
+{"secret": "cheesecake", "context": "A dessert.", "full_aliases": ["cheese cake"], "partial_aliases": []}
+{"secret": "birthday cake", "context": "Something associated with a celebration.", "full_aliases": [], "partial_aliases": []}
+{"secret": "black cat", "context": "An animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "white horse", "context": "An animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "goldfish", "context": "An animal.", "full_aliases": ["gold fish"], "partial_aliases": []}
+{"secret": "starfish", "context": "A marine animal.", "full_aliases": ["sea star", "star fish"], "partial_aliases": []}
+{"secret": "seahorse", "context": "A marine animal.", "full_aliases": ["sea horse"], "partial_aliases": []}
+{"secret": "blue whale", "context": "A marine animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "killer whale", "context": "A marine animal.", "full_aliases": ["orca"], "partial_aliases": []}
+{"secret": "sea turtle", "context": "A marine animal.", "full_aliases": ["marine turtle"], "partial_aliases": []}
+{"secret": "polar bear", "context": "An animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "brown bear", "context": "An animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "red panda", "context": "An animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "snow leopard", "context": "An animal.", "full_aliases": [], "partial_aliases": []}
+{"secret": "bald eagle", "context": "A bird.", "full_aliases": [], "partial_aliases": []}
+{"secret": "black swan", "context": "A bird.", "full_aliases": [], "partial_aliases": []}
+{"secret": "roadrunner", "context": "A bird.", "full_aliases": ["road runner"], "partial_aliases": []}
+{"secret": "woodpecker", "context": "A bird.", "full_aliases": ["wood pecker"], "partial_aliases": []}
+{"secret": "ladybird", "context": "An insect.", "full_aliases": ["ladybug", "lady bird", "lady bug"], "partial_aliases": []}
+{"secret": "dragonfly", "context": "An insect.", "full_aliases": ["dragon fly"], "partial_aliases": []}
+{"secret": "butterfly", "context": "An insect.", "full_aliases": ["butterflies"], "partial_aliases": []}
+{"secret": "firefly", "context": "An insect.", "full_aliases": ["fireflies", "fire fly"], "partial_aliases": []}
+{"secret": "rainbow", "context": "Something seen outdoors.", "full_aliases": [], "partial_aliases": []}
+{"secret": "sunflower", "context": "Something seen outdoors.", "full_aliases": ["sun flower"], "partial_aliases": []}
+{"secret": "snowman", "context": "Something seen outdoors.", "full_aliases": ["snow man"], "partial_aliases": []}
+{"secret": "raincoat", "context": "Something people wear.", "full_aliases": ["rain coat"], "partial_aliases": []}
+{"secret": "sunglasses", "context": "Something people wear.", "full_aliases": ["sun glasses"], "partial_aliases": []}
+{"secret": "lighthouse", "context": "A type of building.", "full_aliases": ["light house"], "partial_aliases": []}
+{"secret": "treehouse", "context": "A type of building.", "full_aliases": ["tree house"], "partial_aliases": []}
+{"secret": "greenhouse", "context": "A type of building.", "full_aliases": ["green house"], "partial_aliases": []}
+{"secret": "fire engine", "context": "A vehicle.", "full_aliases": ["fire truck", "firetruck"], "partial_aliases": []}
+{"secret": "school bus", "context": "A vehicle.", "full_aliases": [], "partial_aliases": []}
+{"secret": "hot air balloon", "context": "A means of transport.", "full_aliases": ["hot-air balloon"], "partial_aliases": []}
+{"secret": "steam train", "context": "A means of transport.", "full_aliases": ["steam locomotive"], "partial_aliases": []}
+{"secret": "spaceship", "context": "A vehicle.", "full_aliases": ["space ship", "spacecraft"], "partial_aliases": []}
+{"secret": "submarine", "context": "A vehicle.", "full_aliases": [], "partial_aliases": []}
+{"secret": "black hole", "context": "Something associated with space or the night sky.", "full_aliases": [], "partial_aliases": []}
+{"secret": "shooting star", "context": "Something associated with space or the night sky.", "full_aliases": ["falling star", "meteor"], "partial_aliases": []}
+{"secret": "full moon", "context": "Something associated with space or the night sky.", "full_aliases": [], "partial_aliases": []}
+{"secret": "treasure chest", "context": "A physical object.", "full_aliases": [], "partial_aliases": []}
+{"secret": "alarm clock", "context": "A physical object.", "full_aliases": [], "partial_aliases": []}
+{"secret": "red carpet", "context": "Something associated with a celebration.", "full_aliases": [], "partial_aliases": []}

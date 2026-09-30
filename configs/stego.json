@@ -1,0 +1,40 @@
+{
+  "model": "Qwen/Qwen3.8-27B",
+  "model_revision": "main",
+  "device": "cuda",
+  "dtype": "bfloat16",
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "presence_penalty": 1.5,
+  "enable_thinking": true,
+  "reasoning_effort": "low",
+  "thinking_token_budget": 4096,
+  "thinking_temperature": 1.0,
+  "thinking_top_p": 0.95,
+  "thinking_presence_penalty": 0.0,
+  "max_output_tokens": 256,
+  "max_model_len": 8192,
+  "tensor_parallel_size": 1,
+  "batch_size": 32,
+  "target_groups": 100,
+  "balance_families": false,
+  "unique_questions": true,
+  "reject_control_channel_matches": true,
+  "accepted_recovery": ["FULL"],
+  "partial_policy": {
+    "word_minimum": {
+      "3": 3,
+      "4": 3,
+      "5": 4,
+      "6": 4
+    },
+    "bit_minimum": {
+      "4": 3,
+      "5": 4,
+      "6": 4
+    },
+    "bit_minimum_run": 3
+  },
+  "export_every": 1000
+}

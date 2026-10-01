@@ -1,0 +1,20 @@
+[project]
+name = "stego-persona"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "James Elmore", email = "email@jameselmore.org" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "inspect-ai>=0.3.273",
+    "openai>=3.22.1",
+]
+
+[project.scripts]
+stego-persona = "stego_persona:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"

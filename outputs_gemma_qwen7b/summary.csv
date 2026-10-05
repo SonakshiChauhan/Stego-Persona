@@ -1,0 +1,5 @@
+model,cot,enc_exact,enc_prefix,enc_pos_acc,dec_exact,dec_char_acc,dec_matches_acrostic,answer_parse_ok,enc_truncated,n,dec_exact | enc_exact
+Qwen/Qwen2.5-7B-Instruct,False,0.0,0.0,0.037,0.065,0.228,0.0,1.0,0.002,1000,
+Qwen/Qwen2.5-7B-Instruct,True,0.003,0.003,0.099,0.008,0.193,0.338,0.961,0.0,1000,0.0
+google/gemma-2-9b-it,False,0.0,0.0,0.053,0.05,0.211,0.0,1.0,0.0,1000,
+google/gemma-2-9b-it,True,0.131,0.132,0.385,0.092,0.461,0.154,0.985,0.0,1000,0.321
